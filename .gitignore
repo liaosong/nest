@@ -1,0 +1,12 @@
+# Node Files #
+/node_modules/
+/bower_components/
+npm-debug.log
+/npm-debug.log.*
+
+dist
+.env
+.idea
+.awcache
+.idea
+.github
